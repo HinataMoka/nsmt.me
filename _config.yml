@@ -103,5 +103,5 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:RyanNsmt/nsmt.me.git'
+  repo: 'git@github.com:HinataMoka/nsmt.me.git'
   branch: gh-pages
