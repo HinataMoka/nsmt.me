@@ -1,4 +1,4 @@
-image: node:14.17.5
+image: node:20-alpine
 
 cache:
   paths:
@@ -6,14 +6,13 @@ cache:
 
 before_script:
   - npm install hexo-cli -g
-  - test -e package.json && npm install
-  - hexo generate
+  - npm install
 
 pages:
   script:
-    - hexo generate
+    - npm run build
   artifacts:
     paths:
       - public
-  only:
-    - master
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
