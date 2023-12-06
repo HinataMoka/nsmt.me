@@ -9,29 +9,29 @@ layout: about
 
 你好，我是西本，这是我的个人主页。
 
-位于中国大陆中部地区某城市，社畜です。平常喜欢研究各种奇奇怪怪的东西，从而学到了很多~~没用的~~技能。
+位于中国大陆中部地区某城市，社畜です。平常喜欢研究各种奇奇怪怪的事物，从而学到了很多~~没用的~~技能。
 
-热爱 [自由软件](http://www.gnu.org/philosophy/free-sw.zh-cn.html) 、 [GNU/Linux](http://www.gnu.org/gnu/gnu-linux-faq.zh-cn.html#why) ，更觉得 [开源错失了自由软件的重点](http://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html) ，但并不完全赞同 [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) 的观点，总的来说属于 [绝对中立](<https://zh.wikipedia.org/wiki/%E9%98%B5%E8%90%A5_(%E9%BE%99%E4%B8%8E%E5%9C%B0%E4%B8%8B%E5%9F%8E)#%E7%BB%9D%E5%AF%B9%E4%B8%AD%E7%AB%8B>)。
+热爱 [自由软件](http://www.gnu.org/philosophy/free-sw.zh-cn.html) 、 [GNU/Linux](http://www.gnu.org/gnu/gnu-linux-faq.zh-cn.html#why) ，更觉得 [开源错失了自由软件的重点](http://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html) ，但并不完全赞同 [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) 的观点。
 
 名字来源于 [りみりん](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E6%A2%A8%E7%BE%8E) ，头像是りみりんくまっ。
 
 ### 一句话概括我
 
-宅/咸鱼/拨四弦的/りみ友/普罗丢人/魚民/LLer/东方众/MikuFan……etc.
+宅 / 咸鱼 / 拨四弦的 / りみ友 / 普罗丢人 / 魚民 / LLer / 东方众 / MikuFan……etc.
 
 ### 擅长领域
 
-本人熟练掌握 `C,C++,Python,HTML,CSS,JavaScript,PHP` 等语言的名称拼写， `Windows Server,Debian,Ubuntu,CentOS` 等系统的开关机， `Ps,Au,Pr,Lr,Ae,Ai` 等 Adobe 全家桶的安装与卸载， `吉他、贝司、键盘、架子鼓` 等乐器的音色分辨等。
+本人熟练掌握 `C, C++, Python, HTML, CSS, JavaScript, PHP` 等语言的名称拼写， `Debian, Ubuntu, Arch Linux, Windows Server` 等操作系统的开关机， `Ps, Au, Pr, Lr, Ae, Ai` 等 Adobe 全家桶的安装与卸载， `吉他、贝司、键盘、架子鼓` 等乐器的音色分辨等技能。
 
 实际上啥都不会。
 
 ### 环境
 
 ```
-AMD Ryzn 5800X/NVIDIA GeForce GTX 3070Ti/16G DDR4×2/500G NVMe M.2 SSD+8T SATA HDD×2/Debian 11
-Intel Core i7-9750H/NVIDIA GeForce GTX 1660Ti/8G DDR4×2/256G NVMe SSD+1T HDD/Debian 11 + Windows 11 Pro Workstation
-Qualcomm Snapdragon 888/Qualcomm Adreno 660/12G+256G/Android 12
-Qualcomm Snapdragon 865/Qualcomm Adreno 650/8G+256G/Android 12
+AMD Ryzn 5800X / NVIDIA GeForce GTX 3070Ti / 64G DDR4 / Debian Sid + Arch Linux (QEMU)
+Intel Core i7-9750H / NVIDIA GeForce GTX 1660Ti/ 16G DDR4 / Windows 11 Pro Workstation + Debian Unstable (WSL)
+Qualcomm Snapdragon 888 / Qualcomm Adreno 660 / Android 12
+Qualcomm Snapdragon 865 / Qualcomm Adreno 650 / Android 12
 ```
 
 ### 思想
@@ -46,7 +46,7 @@ Qualcomm Snapdragon 865/Qualcomm Adreno 650/8G+256G/Android 12
 
 ## 联系方式
 
-电子邮箱: [&#72;&#101;&#00000108;&#0000108;&#x000006f;&#0064;&#x006e;&#115;&#0000109;&#00000116;&#x00002e;&#109;&#00101;](mailto:&#72;&#101;&#00000108;&#0000108;&#x000006f;&#0064;&#x006e;&#115;&#0000109;&#00000116;&#x00002e;&#109;&#00101;)
+电子邮箱: [&#x48;&#101;&#108;&#x6c;&#x6f;&#64;&#110;&#115;&#109;&#116;&#46;&#x6d;&#101;](mailto:&#x48;&#101;&#108;&#x6c;&#x6f;&#64;&#110;&#115;&#109;&#116;&#46;&#x6d;&#101;)
 
 PGP 密钥:
 
@@ -76,7 +76,8 @@ dD4Fk+pLiPbhZ+rKopQFyuYJ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-[下载](../key/encrypt-pub-key.pgp)
+[下载密钥](../key/encrypt-pub-key.pgp)
+
 <br>
 <br>
 
@@ -88,7 +89,7 @@ Hello, I'm Ryan. This is my homepage. I'm from Mainland China.
 
 I love [Free Software](http://www.gnu.org/philosophy/free-sw.en.html) (“Free” is like “free speech”, not “free beer”) and [GNU/Linux](http://www.gnu.org/gnu/gnu-linux-faq.en.html#why).
 
-I also love ACG (an abbreviation for the Anime, Comic and Game) and music. [Rimi Nishimoto](https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF) is my favorite Bassist.
+I also love Japanese anime, manga, games and music. [Rimi Nishimoto](https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF) is my favorite Bassist.
 
 ## About this website
 
@@ -96,7 +97,7 @@ Powered by [Hexo](https://hexo.io)，Use [Theme Chic](https://github.com/Siricee
 
 ## Contact
 
-E-mail: [&#72;&#101;&#00000108;&#0000108;&#x000006f;&#0064;&#x006e;&#115;&#0000109;&#00000116;&#x00002e;&#109;&#00101;](mailto:&#72;&#101;&#00000108;&#0000108;&#x000006f;&#0064;&#x006e;&#115;&#0000109;&#00000116;&#x00002e;&#109;&#00101;)
+E-mail: [&#x48;&#101;&#108;&#x6c;&#x6f;&#64;&#110;&#115;&#109;&#116;&#46;&#x6d;&#101;](mailto:&#x48;&#101;&#108;&#x6c;&#x6f;&#64;&#110;&#115;&#109;&#116;&#46;&#x6d;&#101;)
 
 PGP Key:
 
@@ -126,4 +127,4 @@ dD4Fk+pLiPbhZ+rKopQFyuYJ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-[Download](../key/encrypt-pub-key.pgp)
+[Download Key](../key/encrypt-pub-key.pgp)
